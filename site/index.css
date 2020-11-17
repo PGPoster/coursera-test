@@ -26,6 +26,8 @@ p{
   /* Handle */
   ::-webkit-scrollbar-thumb {
     background: rgb(224, 34, 34); 
+    transition-property: width;
+    transition-duration: 2ms;
   }
   
   /* Handle on hover */

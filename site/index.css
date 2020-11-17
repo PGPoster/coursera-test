@@ -1,5 +1,7 @@
 body{
     background-color: azure;
+    margin: 0;
+    padding: 0;
 }
 p{
     background-color: bisque;

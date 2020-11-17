@@ -9,3 +9,22 @@ p{
     height: 40px;
     overflow: auto;
 }
+    /* width */
+  ::-webkit-scrollbar {
+    width: 100px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f828ff; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(224, 34, 34); 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(225, 133, 233); 
+  }

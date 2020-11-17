@@ -28,3 +28,7 @@ p{
   ::-webkit-scrollbar-thumb:hover {
     background: rgb(225, 133, 233); 
   }
+
+  h1>p:nth-child(2){
+    margin-top: 0%;
+  }

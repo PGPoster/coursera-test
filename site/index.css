@@ -2,8 +2,6 @@ body{
     background-color: azure;
     margin: 0;
     padding: 0;
-    margin-block-end: 0;
-    margin-block-start: 0;
 }
 p{
     background-color: bisque;
@@ -12,6 +10,8 @@ p{
     width: 400px;
     height: 40px;
     overflow: auto;
+    margin-block-end: 0;
+    margin-block-start: 0;
 }
     /* width */
   ::-webkit-scrollbar {
